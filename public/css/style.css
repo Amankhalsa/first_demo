@@ -1,0 +1,35 @@
+body {
+	background-color: #e9ecef;
+}
+
+  /*  body{
+      background-color: #e9ecef;
+    }*/
+    .mystyle{
+      background-color: black;
+      font-size: 20px;
+      color: white;
+      font-weight: bolder;
+    }
+    li{
+      display: inline;
+      margin-left: 10px;
+      margin-right: 65px;
+      box-sizing: border-box;
+    }
+    a{
+      text-decoration: none;
+      color: white;
+    }
+    a:hover{
+      color: lightgray;
+      text-decoration: none;
+    }
+
+    .fa{
+      font-size:30px;
+      color:black;
+    }
+    .fa:hover{
+color:lightgray;
+    }
